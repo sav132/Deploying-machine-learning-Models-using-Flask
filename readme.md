@@ -1,5 +1,4 @@
-
-Simple-Deployment-of-ML-model-using-flask
+Deployment-of-ML-model-using-flask
 
 The model is for predicting the possibility of a heart disease. The code has not been uploaded since this is part of an open competition. Will upload the code once the competition is over.
 
@@ -7,7 +6,8 @@ To run the code
 
     pip install flask
     Run python working-se.py
-    As a sample prediction example, copy past the following into a browser http://127.0.0.1:5000/predict?a=1&b=0&c=138&d=4&e=0&f=0&g=0&h=183&i=1.4&j=0&k=35&l=182&m=0
+    Go to http://127.0.0.1:5000/
+    
 
 There are 13 features which are considered to make the prediction -
 
